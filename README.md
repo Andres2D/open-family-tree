@@ -1,6 +1,6 @@
 ## Summary
 Open family tree project.
 
-By Primal, Mufi and Andres.
+By Parimal, Mufi and Andres.
 
 Work in progress.
